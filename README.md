@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Chaya<br>🎯 Aspiring Full Stack Java Developer<br>💻 Currently learning Java, Spring Boot, Hibernate, React, and MySQL<br>📚 Exploring backend & frontend <br>🚀 Passionate about building scalable web applications<br>📌 Open to collaboration on Java and web development projects<br><br>
+# Hi👋, I'm Chayadevi
+🎯 Aspiring Full Stack Java Developer<br>💻 Currently learning Java, Spring Boot, Hibernate, React, and MySQL<br>📚 Exploring backend & frontend <br>🚀 Passionate about building scalable web applications<br>📌 Open to collaboration on Java and web development projects<br><br>
 
 
 ## 🌐 Socials:
